@@ -2,7 +2,7 @@
 
 1. [Vim](#vim)
 2. [NERDTree](#nerdtree)
-  1. [Moving through windows](#moving-through-windows)
+    1. [Moving through windows](#moving-through-windows)
 
 ## Vim
 

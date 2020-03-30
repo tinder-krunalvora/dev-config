@@ -1,2 +1,2 @@
 # dev-config
-Configuration files for developer environments
+Configuration files for developer environments.

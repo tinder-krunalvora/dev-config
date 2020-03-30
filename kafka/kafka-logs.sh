@@ -1,0 +1,7 @@
+#!/bin/bash
+
+MY_KAFKA_HOME="${KAFKA_HOME:-/usr/local/kafka}"
+SERVER_LOG_FILENAME="${1:-server.log}"
+SERVER_LOG_PATH="$MY_KAFKA_HOME/logs/$SERVER_LOG_FILENAME"
+
+tail -100 $SERVER_LOG_PATH

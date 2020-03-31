@@ -26,7 +26,7 @@ if command -v pyenv 1>/dev/null 2>&1; then
 fi
 ```
 
-Verify python verions:
+Verify python versions:
 ```bash
 which python
 # /Users/<user>/.pyenv/shims/python

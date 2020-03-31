@@ -4,7 +4,7 @@
 
 2. Set a symbolic link for `~/.vimrc`:
 	```bash
-	ln -s <path-to-dev-config>/vim/.vimrc ~/.vimrc
+	ln -s <path-to-dev-config>/vim/vimrc ~/.vimrc
 	```
 
 3. Upon opening `vim`, install the vim-plug plugins:

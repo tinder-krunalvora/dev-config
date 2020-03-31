@@ -7,6 +7,6 @@
 	ln -s <path-to-dev-config>/vim/.vimrc ~/.vimrc
 	```
 
-3. Upon opening `vim`,install the vim-plug plugins:
+3. Upon opening `vim`, install the vim-plug plugins:
 
 	`:PlugInstall`

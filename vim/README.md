@@ -8,4 +8,5 @@
 	```
 
 3. Upon opening vim and install the vim-plug plugins:
+
 	`:PlugInstall`

@@ -1,10 +1,12 @@
 # Vim Plugins setup using `vim-plug`
 
-Download plug.vim and put it in the autoload directory as shown [here](https://github.com/junegunn/vim-plug#installation).
+1. Download plug.vim and put it in the autoload directory as shown [here](https://github.com/junegunn/vim-plug#installation).
 
-```bash
-cp .vimrc ~/
-```
+2. Set a symbolic link for `~/.vimrc`:
+	```bash
+	ln -s <path-to-dev-config>/vim/.vimrc ~/.vimrc
+	```
 
-Upon opening vim:
-`:PlugInstall`
+3. Upon opening `vim`, install the vim-plug plugins:
+
+	`:PlugInstall`
